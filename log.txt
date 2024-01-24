@@ -1,0 +1,1681 @@
+NVIDIA GeForce GTX 1650 Ti
+Input image 1.1.01.tiff loaded.
+Output image 1.1.01_edges.tiff successfully written.
+Image processing took 284788495 nanoseconds:
+  1679600 to load the image.
+  211536896 to transfer it to the device.
+  68167799 to execute the kernel.
+  374000 to transfer it back to the host.
+  71571999 to write the image to disk.
+Input image 1.1.02.tiff loaded.
+Output image 1.1.02_edges.tiff successfully written.
+Image processing took 4142100 nanoseconds:
+  495800 to load the image.
+  340700 to transfer it to the device.
+  14800 to execute the kernel.
+  527400 to transfer it back to the host.
+  3305600 to write the image to disk.
+Input image 1.1.03.tiff loaded.
+Output image 1.1.03_edges.tiff successfully written.
+Image processing took 4037100 nanoseconds:
+  461700 to load the image.
+  428300 to transfer it to the device.
+  9600 to execute the kernel.
+  441300 to transfer it back to the host.
+  3147100 to write the image to disk.
+Input image 1.1.04.tiff loaded.
+Output image 1.1.04_edges.tiff successfully written.
+Image processing took 3912600 nanoseconds:
+  461500 to load the image.
+  355300 to transfer it to the device.
+  9500 to execute the kernel.
+  408800 to transfer it back to the host.
+  3095800 to write the image to disk.
+Input image 1.1.05.tiff loaded.
+Output image 1.1.05_edges.tiff successfully written.
+Image processing took 4117000 nanoseconds:
+  459900 to load the image.
+  393300 to transfer it to the device.
+  9600 to execute the kernel.
+  463000 to transfer it back to the host.
+  3263800 to write the image to disk.
+Input image 1.1.06.tiff loaded.
+Output image 1.1.06_edges.tiff successfully written.
+Image processing took 3953300 nanoseconds:
+  460000 to load the image.
+  413800 to transfer it to the device.
+  9700 to execute the kernel.
+  372000 to transfer it back to the host.
+  3079500 to write the image to disk.
+Input image 1.1.07.tiff loaded.
+Output image 1.1.07_edges.tiff successfully written.
+Image processing took 4374200 nanoseconds:
+  460600 to load the image.
+  433800 to transfer it to the device.
+  10800 to execute the kernel.
+  703300 to transfer it back to the host.
+  3479800 to write the image to disk.
+Input image 1.1.08.tiff loaded.
+Output image 1.1.08_edges.tiff successfully written.
+Image processing took 4340200 nanoseconds:
+  460600 to load the image.
+  381300 to transfer it to the device.
+  9700 to execute the kernel.
+  444900 to transfer it back to the host.
+  3498300 to write the image to disk.
+Input image 1.1.09.tiff loaded.
+Output image 1.1.09_edges.tiff successfully written.
+Image processing took 4504500 nanoseconds:
+  460700 to load the image.
+  325900 to transfer it to the device.
+  9900 to execute the kernel.
+  604700 to transfer it back to the host.
+  3717900 to write the image to disk.
+Input image 1.1.10.tiff loaded.
+Output image 1.1.10_edges.tiff successfully written.
+Image processing took 4364800 nanoseconds:
+  474500 to load the image.
+  390200 to transfer it to the device.
+  9700 to execute the kernel.
+  455600 to transfer it back to the host.
+  3500100 to write the image to disk.
+Input image 1.1.11.tiff loaded.
+Output image 1.1.11_edges.tiff successfully written.
+Image processing took 4230699 nanoseconds:
+  460800 to load the image.
+  409400 to transfer it to the device.
+  9800 to execute the kernel.
+  414600 to transfer it back to the host.
+  3360499 to write the image to disk.
+Input image 1.1.12.tiff loaded.
+Output image 1.1.12_edges.tiff successfully written.
+Image processing took 4342500 nanoseconds:
+  507100 to load the image.
+  294800 to transfer it to the device.
+  24000 to execute the kernel.
+  465300 to transfer it back to the host.
+  3540600 to write the image to disk.
+Input image 1.1.13.tiff loaded.
+Output image 1.1.13_edges.tiff successfully written.
+Image processing took 4195600 nanoseconds:
+  460200 to load the image.
+  430800 to transfer it to the device.
+  10100 to execute the kernel.
+  494100 to transfer it back to the host.
+  3304600 to write the image to disk.
+Input image 1.2.01.tiff loaded.
+Output image 1.2.01_edges.tiff successfully written.
+Image processing took 3884700 nanoseconds:
+  461700 to load the image.
+  401600 to transfer it to the device.
+  9900 to execute the kernel.
+  402500 to transfer it back to the host.
+  3021400 to write the image to disk.
+Input image 1.2.02.tiff loaded.
+Output image 1.2.02_edges.tiff successfully written.
+Image processing took 4009000 nanoseconds:
+  459200 to load the image.
+  406800 to transfer it to the device.
+  9600 to execute the kernel.
+  494900 to transfer it back to the host.
+  3143000 to write the image to disk.
+Input image 1.2.03.tiff loaded.
+Output image 1.2.03_edges.tiff successfully written.
+Image processing took 4157000 nanoseconds:
+  460700 to load the image.
+  406600 to transfer it to the device.
+  10300 to execute the kernel.
+  452800 to transfer it back to the host.
+  3289700 to write the image to disk.
+Input image 1.2.04.tiff loaded.
+Output image 1.2.04_edges.tiff successfully written.
+Image processing took 3826700 nanoseconds:
+  467500 to load the image.
+  335200 to transfer it to the device.
+  10100 to execute the kernel.
+  377900 to transfer it back to the host.
+  3024000 to write the image to disk.
+Input image 1.2.05.tiff loaded.
+Output image 1.2.05_edges.tiff successfully written.
+Image processing took 3847400 nanoseconds:
+  461300 to load the image.
+  389500 to transfer it to the device.
+  9700 to execute the kernel.
+  419300 to transfer it back to the host.
+  2996600 to write the image to disk.
+Input image 1.2.06.tiff loaded.
+Output image 1.2.06_edges.tiff successfully written.
+Image processing took 4017100 nanoseconds:
+  469600 to load the image.
+  408800 to transfer it to the device.
+  9700 to execute the kernel.
+  486400 to transfer it back to the host.
+  3138700 to write the image to disk.
+Input image 1.2.07.tiff loaded.
+Output image 1.2.07_edges.tiff successfully written.
+Image processing took 4303900 nanoseconds:
+  459300 to load the image.
+  416800 to transfer it to the device.
+  9600 to execute the kernel.
+  463400 to transfer it back to the host.
+  3427800 to write the image to disk.
+Input image 1.2.08.tiff loaded.
+Output image 1.2.08_edges.tiff successfully written.
+Image processing took 4166500 nanoseconds:
+  459700 to load the image.
+  412200 to transfer it to the device.
+  9800 to execute the kernel.
+  483400 to transfer it back to the host.
+  3294600 to write the image to disk.
+Input image 1.2.09.tiff loaded.
+Output image 1.2.09_edges.tiff successfully written.
+Image processing took 4054900 nanoseconds:
+  473700 to load the image.
+  338200 to transfer it to the device.
+  10400 to execute the kernel.
+  406800 to transfer it back to the host.
+  3243000 to write the image to disk.
+Input image 1.2.10.tiff loaded.
+Output image 1.2.10_edges.tiff successfully written.
+Image processing took 3710800 nanoseconds:
+  464100 to load the image.
+  375000 to transfer it to the device.
+  10200 to execute the kernel.
+  377500 to transfer it back to the host.
+  2871700 to write the image to disk.
+Input image 1.2.11.tiff loaded.
+Output image 1.2.11_edges.tiff successfully written.
+Image processing took 3871700 nanoseconds:
+  460700 to load the image.
+  388800 to transfer it to the device.
+  9600 to execute the kernel.
+  473000 to transfer it back to the host.
+  3022200 to write the image to disk.
+Input image 1.2.12.tiff loaded.
+Output image 1.2.12_edges.tiff successfully written.
+Image processing took 4009899 nanoseconds:
+  460100 to load the image.
+  414600 to transfer it to the device.
+  9700 to execute the kernel.
+  471300 to transfer it back to the host.
+  3135199 to write the image to disk.
+Input image 1.2.13.tiff loaded.
+Output image 1.2.13_edges.tiff successfully written.
+Image processing took 4044700 nanoseconds:
+  460400 to load the image.
+  394100 to transfer it to the device.
+  9900 to execute the kernel.
+  440400 to transfer it back to the host.
+  3190200 to write the image to disk.
+Input image 1.3.01.tiff loaded.
+Output image 1.3.01_edges.tiff successfully written.
+Image processing took 14886300 nanoseconds:
+  1870600 to load the image.
+  368600 to transfer it to the device.
+  412400 to execute the kernel.
+  1550800 to transfer it back to the host.
+  12647100 to write the image to disk.
+Input image 1.3.02.tiff loaded.
+Output image 1.3.02_edges.tiff successfully written.
+Image processing took 15280600 nanoseconds:
+  1735500 to load the image.
+  583500 to transfer it to the device.
+  490500 to execute the kernel.
+  1109200 to transfer it back to the host.
+  12961600 to write the image to disk.
+Input image 1.3.03.tiff loaded.
+Output image 1.3.03_edges.tiff successfully written.
+Image processing took 16274600 nanoseconds:
+  1753100 to load the image.
+  563900 to transfer it to the device.
+  423400 to execute the kernel.
+  1140600 to transfer it back to the host.
+  13957600 to write the image to disk.
+Input image 1.3.04.tiff loaded.
+Output image 1.3.04_edges.tiff successfully written.
+Image processing took 15378599 nanoseconds:
+  1834300 to load the image.
+  492000 to transfer it to the device.
+  484500 to execute the kernel.
+  1316100 to transfer it back to the host.
+  13052299 to write the image to disk.
+Input image 1.3.05.tiff loaded.
+Output image 1.3.05_edges.tiff successfully written.
+Image processing took 14535200 nanoseconds:
+  1840600 to load the image.
+  557400 to transfer it to the device.
+  444500 to execute the kernel.
+  1162000 to transfer it back to the host.
+  12137200 to write the image to disk.
+Input image 1.3.06.tiff loaded.
+Output image 1.3.06_edges.tiff successfully written.
+Image processing took 15304400 nanoseconds:
+  1853400 to load the image.
+  502700 to transfer it to the device.
+  439100 to execute the kernel.
+  1051100 to transfer it back to the host.
+  12948300 to write the image to disk.
+Input image 1.3.07.tiff loaded.
+Output image 1.3.07_edges.tiff successfully written.
+Image processing took 16403099 nanoseconds:
+  1829700 to load the image.
+  511100 to transfer it to the device.
+  466500 to execute the kernel.
+  1178500 to transfer it back to the host.
+  14062299 to write the image to disk.
+Input image 1.3.08.tiff loaded.
+Output image 1.3.08_edges.tiff successfully written.
+Image processing took 16948500 nanoseconds:
+  1834100 to load the image.
+  539300 to transfer it to the device.
+  400100 to execute the kernel.
+  1174600 to transfer it back to the host.
+  14575100 to write the image to disk.
+Input image 1.3.09.tiff loaded.
+Output image 1.3.09_edges.tiff successfully written.
+Image processing took 16224200 nanoseconds:
+  1822700 to load the image.
+  500600 to transfer it to the device.
+  487000 to execute the kernel.
+  1067000 to transfer it back to the host.
+  13900900 to write the image to disk.
+Input image 1.3.10.tiff loaded.
+Output image 1.3.10_edges.tiff successfully written.
+Image processing took 15233200 nanoseconds:
+  1699600 to load the image.
+  582200 to transfer it to the device.
+  477500 to execute the kernel.
+  1094800 to transfer it back to the host.
+  12951400 to write the image to disk.
+Input image 1.3.11.tiff loaded.
+Output image 1.3.11_edges.tiff successfully written.
+Image processing took 15343999 nanoseconds:
+  1740200 to load the image.
+  548700 to transfer it to the device.
+  470400 to execute the kernel.
+  1281000 to transfer it back to the host.
+  13055099 to write the image to disk.
+Input image 1.3.12.tiff loaded.
+Output image 1.3.12_edges.tiff successfully written.
+Image processing took 16441600 nanoseconds:
+  1715400 to load the image.
+  762200 to transfer it to the device.
+  666100 to execute the kernel.
+  1603800 to transfer it back to the host.
+  13964000 to write the image to disk.
+Input image 1.3.13.tiff loaded.
+Output image 1.3.13_edges.tiff successfully written.
+Image processing took 16420400 nanoseconds:
+  1702100 to load the image.
+  743800 to transfer it to the device.
+  638900 to execute the kernel.
+  1622800 to transfer it back to the host.
+  13974500 to write the image to disk.
+Input image 1.4.01.tiff loaded.
+Output image 1.4.01_edges.tiff successfully written.
+Image processing took 15680000 nanoseconds:
+  1702400 to load the image.
+  676800 to transfer it to the device.
+  603600 to execute the kernel.
+  1564000 to transfer it back to the host.
+  13300800 to write the image to disk.
+Input image 1.4.02.tiff loaded.
+Output image 1.4.02_edges.tiff successfully written.
+Image processing took 15665399 nanoseconds:
+  1755099 to load the image.
+  481900 to transfer it to the device.
+  437600 to execute the kernel.
+  1196900 to transfer it back to the host.
+  13428400 to write the image to disk.
+Input image 1.4.03.tiff loaded.
+Output image 1.4.03_edges.tiff successfully written.
+Image processing took 15942100 nanoseconds:
+  1771900 to load the image.
+  616400 to transfer it to the device.
+  455700 to execute the kernel.
+  1227300 to transfer it back to the host.
+  13553800 to write the image to disk.
+Input image 1.4.04.tiff loaded.
+Output image 1.4.04_edges.tiff successfully written.
+Image processing took 14923600 nanoseconds:
+  1701600 to load the image.
+  552500 to transfer it to the device.
+  407400 to execute the kernel.
+  1305700 to transfer it back to the host.
+  12669500 to write the image to disk.
+Input image 1.4.05.tiff loaded.
+Output image 1.4.05_edges.tiff successfully written.
+Image processing took 15247699 nanoseconds:
+  1795600 to load the image.
+  491400 to transfer it to the device.
+  441700 to execute the kernel.
+  1111200 to transfer it back to the host.
+  12960699 to write the image to disk.
+Input image 1.4.06.tiff loaded.
+Output image 1.4.06_edges.tiff successfully written.
+Image processing took 16674600 nanoseconds:
+  1824000 to load the image.
+  529500 to transfer it to the device.
+  471700 to execute the kernel.
+  1034700 to transfer it back to the host.
+  14321100 to write the image to disk.
+Input image 1.4.07.tiff loaded.
+Output image 1.4.07_edges.tiff successfully written.
+Image processing took 14929200 nanoseconds:
+  1815300 to load the image.
+  482100 to transfer it to the device.
+  479000 to execute the kernel.
+  1088500 to transfer it back to the host.
+  12631800 to write the image to disk.
+Input image 1.4.08.tiff loaded.
+Output image 1.4.08_edges.tiff successfully written.
+Image processing took 16078000 nanoseconds:
+  1868200 to load the image.
+  464900 to transfer it to the device.
+  497900 to execute the kernel.
+  1242800 to transfer it back to the host.
+  13744900 to write the image to disk.
+Input image 1.4.09.tiff loaded.
+Output image 1.4.09_edges.tiff successfully written.
+Image processing took 16261099 nanoseconds:
+  1847300 to load the image.
+  488400 to transfer it to the device.
+  428100 to execute the kernel.
+  1156899 to transfer it back to the host.
+  13925399 to write the image to disk.
+Input image 1.4.10.tiff loaded.
+Output image 1.4.10_edges.tiff successfully written.
+Image processing took 15257400 nanoseconds:
+  1835100 to load the image.
+  481700 to transfer it to the device.
+  410800 to execute the kernel.
+  1206800 to transfer it back to the host.
+  12940600 to write the image to disk.
+Input image 1.4.11.tiff loaded.
+Output image 1.4.11_edges.tiff successfully written.
+Image processing took 14221600 nanoseconds:
+  1843100 to load the image.
+  508600 to transfer it to the device.
+  463600 to execute the kernel.
+  1040800 to transfer it back to the host.
+  11869900 to write the image to disk.
+Input image 1.4.12.tiff loaded.
+Output image 1.4.12_edges.tiff successfully written.
+Image processing took 14465300 nanoseconds:
+  1869600 to load the image.
+  588900 to transfer it to the device.
+  477200 to execute the kernel.
+  1107700 to transfer it back to the host.
+  12006800 to write the image to disk.
+Input image 1.5.01.tiff loaded.
+Output image 1.5.01_edges.tiff successfully written.
+Image processing took 4860099 nanoseconds:
+  452899 to load the image.
+  583200 to transfer it to the device.
+  10300 to execute the kernel.
+  732600 to transfer it back to the host.
+  3824000 to write the image to disk.
+Input image 1.5.02.tiff loaded.
+Output image 1.5.02_edges.tiff successfully written.
+Image processing took 3789000 nanoseconds:
+  451500 to load the image.
+  475900 to transfer it to the device.
+  10600 to execute the kernel.
+  682400 to transfer it back to the host.
+  2861600 to write the image to disk.
+Input image 1.5.03.tiff loaded.
+Output image 1.5.03_edges.tiff successfully written.
+Image processing took 4535600 nanoseconds:
+  451600 to load the image.
+  486400 to transfer it to the device.
+  10300 to execute the kernel.
+  725500 to transfer it back to the host.
+  3597600 to write the image to disk.
+Input image 1.5.04.tiff loaded.
+Output image 1.5.04_edges.tiff successfully written.
+Image processing took 4214000 nanoseconds:
+  449700 to load the image.
+  450900 to transfer it to the device.
+  29500 to execute the kernel.
+  620000 to transfer it back to the host.
+  3313400 to write the image to disk.
+Input image 1.5.05.tiff loaded.
+Output image 1.5.05_edges.tiff successfully written.
+Image processing took 4280400 nanoseconds:
+  449200 to load the image.
+  457000 to transfer it to the device.
+  9900 to execute the kernel.
+  558400 to transfer it back to the host.
+  3374200 to write the image to disk.
+Input image 1.5.06.tiff loaded.
+Output image 1.5.06_edges.tiff successfully written.
+Image processing took 4859400 nanoseconds:
+  450900 to load the image.
+  446100 to transfer it to the device.
+  9500 to execute the kernel.
+  598800 to transfer it back to the host.
+  3962400 to write the image to disk.
+Input image 1.5.07.tiff loaded.
+Output image 1.5.07_edges.tiff successfully written.
+Image processing took 4415900 nanoseconds:
+  453400 to load the image.
+  496400 to transfer it to the device.
+  10900 to execute the kernel.
+  529500 to transfer it back to the host.
+  3466100 to write the image to disk.
+Input image 2.1.01.tiff loaded.
+Output image 2.1.01_edges.tiff successfully written.
+Image processing took 4136100 nanoseconds:
+  533500 to load the image.
+  395800 to transfer it to the device.
+  9900 to execute the kernel.
+  431100 to transfer it back to the host.
+  3206800 to write the image to disk.
+Input image 2.1.02.tiff loaded.
+Output image 2.1.02_edges.tiff successfully written.
+Image processing took 4502000 nanoseconds:
+  522600 to load the image.
+  587400 to transfer it to the device.
+  30300 to execute the kernel.
+  610600 to transfer it back to the host.
+  3392000 to write the image to disk.
+Input image 2.1.03.tiff loaded.
+Output image 2.1.03_edges.tiff successfully written.
+Image processing took 4671700 nanoseconds:
+  525700 to load the image.
+  550000 to transfer it to the device.
+  10100 to execute the kernel.
+  632700 to transfer it back to the host.
+  3596000 to write the image to disk.
+Input image 2.1.04.tiff loaded.
+Output image 2.1.04_edges.tiff successfully written.
+Image processing took 4449600 nanoseconds:
+  541600 to load the image.
+  427500 to transfer it to the device.
+  9800 to execute the kernel.
+  623100 to transfer it back to the host.
+  3480500 to write the image to disk.
+Input image 2.1.05.tiff loaded.
+Output image 2.1.05_edges.tiff successfully written.
+Image processing took 4626700 nanoseconds:
+  540400 to load the image.
+  540300 to transfer it to the device.
+  10300 to execute the kernel.
+  638000 to transfer it back to the host.
+  3546000 to write the image to disk.
+Input image 2.1.06.tiff loaded.
+Output image 2.1.06_edges.tiff successfully written.
+Image processing took 4560099 nanoseconds:
+  529100 to load the image.
+  546200 to transfer it to the device.
+  10000 to execute the kernel.
+  662300 to transfer it back to the host.
+  3484799 to write the image to disk.
+Input image 2.1.07.tiff loaded.
+Output image 2.1.07_edges.tiff successfully written.
+Image processing took 4740800 nanoseconds:
+  526100 to load the image.
+  532800 to transfer it to the device.
+  10100 to execute the kernel.
+  618500 to transfer it back to the host.
+  3681900 to write the image to disk.
+Input image 2.1.08.tiff loaded.
+Output image 2.1.08_edges.tiff successfully written.
+Image processing took 4642500 nanoseconds:
+  573000 to load the image.
+  454400 to transfer it to the device.
+  25200 to execute the kernel.
+  590100 to transfer it back to the host.
+  3615100 to write the image to disk.
+Input image 2.1.09.tiff loaded.
+Output image 2.1.09_edges.tiff successfully written.
+Image processing took 4761800 nanoseconds:
+  548700 to load the image.
+  483500 to transfer it to the device.
+  10300 to execute the kernel.
+  582700 to transfer it back to the host.
+  3729600 to write the image to disk.
+Input image 2.1.10.tiff loaded.
+Output image 2.1.10_edges.tiff successfully written.
+Image processing took 4836000 nanoseconds:
+  548800 to load the image.
+  425900 to transfer it to the device.
+  10100 to execute the kernel.
+  566300 to transfer it back to the host.
+  3861300 to write the image to disk.
+Input image 2.1.11.tiff loaded.
+Output image 2.1.11_edges.tiff successfully written.
+Image processing took 4664900 nanoseconds:
+  560700 to load the image.
+  477700 to transfer it to the device.
+  10200 to execute the kernel.
+  620700 to transfer it back to the host.
+  3626500 to write the image to disk.
+Input image 2.1.12.tiff loaded.
+Output image 2.1.12_edges.tiff successfully written.
+Image processing took 4686900 nanoseconds:
+  561500 to load the image.
+  484400 to transfer it to the device.
+  10200 to execute the kernel.
+  545200 to transfer it back to the host.
+  3641000 to write the image to disk.
+Input image 2.2.01.tiff loaded.
+Output image 2.2.01_edges.tiff successfully written.
+Image processing took 16330200 nanoseconds:
+  2292200 to load the image.
+  660800 to transfer it to the device.
+  479200 to execute the kernel.
+  1086100 to transfer it back to the host.
+  13377200 to write the image to disk.
+Input image 2.2.02.tiff loaded.
+Output image 2.2.02_edges.tiff successfully written.
+Image processing took 16683599 nanoseconds:
+  2210700 to load the image.
+  555800 to transfer it to the device.
+  522200 to execute the kernel.
+  1368900 to transfer it back to the host.
+  13917099 to write the image to disk.
+Input image 2.2.03.tiff loaded.
+Output image 2.2.03_edges.tiff successfully written.
+Image processing took 17396300 nanoseconds:
+  2213300 to load the image.
+  535700 to transfer it to the device.
+  395900 to execute the kernel.
+  1136900 to transfer it back to the host.
+  14647300 to write the image to disk.
+Input image 2.2.04.tiff loaded.
+Output image 2.2.04_edges.tiff successfully written.
+Image processing took 16621300 nanoseconds:
+  2215700 to load the image.
+  471900 to transfer it to the device.
+  411000 to execute the kernel.
+  1110000 to transfer it back to the host.
+  13933700 to write the image to disk.
+Input image 2.2.05.tiff loaded.
+Output image 2.2.05_edges.tiff successfully written.
+Image processing took 16633999 nanoseconds:
+  2187200 to load the image.
+  480400 to transfer it to the device.
+  418800 to execute the kernel.
+  1089500 to transfer it back to the host.
+  13966399 to write the image to disk.
+Input image 2.2.06.tiff loaded.
+Output image 2.2.06_edges.tiff successfully written.
+Image processing took 16858800 nanoseconds:
+  2178500 to load the image.
+  512400 to transfer it to the device.
+  508700 to execute the kernel.
+  1111100 to transfer it back to the host.
+  14167900 to write the image to disk.
+Input image 2.2.07.tiff loaded.
+Output image 2.2.07_edges.tiff successfully written.
+Image processing took 16993300 nanoseconds:
+  2209300 to load the image.
+  501200 to transfer it to the device.
+  431900 to execute the kernel.
+  1009400 to transfer it back to the host.
+  14282800 to write the image to disk.
+Input image 2.2.08.tiff loaded.
+Output image 2.2.08_edges.tiff successfully written.
+Image processing took 16791600 nanoseconds:
+  2190300 to load the image.
+  488400 to transfer it to the device.
+  426700 to execute the kernel.
+  1059800 to transfer it back to the host.
+  14112900 to write the image to disk.
+Input image 2.2.09.tiff loaded.
+Output image 2.2.09_edges.tiff successfully written.
+Image processing took 16502899 nanoseconds:
+  2198100 to load the image.
+  511900 to transfer it to the device.
+  419300 to execute the kernel.
+  1132800 to transfer it back to the host.
+  13792899 to write the image to disk.
+Input image 2.2.10.tiff loaded.
+Output image 2.2.10_edges.tiff successfully written.
+Image processing took 16351700 nanoseconds:
+  2181800 to load the image.
+  485200 to transfer it to the device.
+  456300 to execute the kernel.
+  1129400 to transfer it back to the host.
+  13684700 to write the image to disk.
+Input image 2.2.11.tiff loaded.
+Output image 2.2.11_edges.tiff successfully written.
+Image processing took 17715100 nanoseconds:
+  2185500 to load the image.
+  525100 to transfer it to the device.
+  474100 to execute the kernel.
+  1069800 to transfer it back to the host.
+  15004500 to write the image to disk.
+Input image 2.2.12.tiff loaded.
+Output image 2.2.12_edges.tiff successfully written.
+Image processing took 16509299 nanoseconds:
+  2208900 to load the image.
+  520200 to transfer it to the device.
+  446000 to execute the kernel.
+  1090600 to transfer it back to the host.
+  13780199 to write the image to disk.
+Input image 2.2.13.tiff loaded.
+Output image 2.2.13_edges.tiff successfully written.
+Image processing took 17068200 nanoseconds:
+  2185200 to load the image.
+  530400 to transfer it to the device.
+  489100 to execute the kernel.
+  1163300 to transfer it back to the host.
+  14352600 to write the image to disk.
+Input image 2.2.14.tiff loaded.
+Output image 2.2.14_edges.tiff successfully written.
+Image processing took 17169300 nanoseconds:
+  2185400 to load the image.
+  531100 to transfer it to the device.
+  487000 to execute the kernel.
+  1067000 to transfer it back to the host.
+  14452800 to write the image to disk.
+Input image 2.2.15.tiff loaded.
+Output image 2.2.15_edges.tiff successfully written.
+Image processing took 16317500 nanoseconds:
+  2281400 to load the image.
+  515000 to transfer it to the device.
+  484300 to execute the kernel.
+  1077400 to transfer it back to the host.
+  13521100 to write the image to disk.
+Input image 2.2.16.tiff loaded.
+Output image 2.2.16_edges.tiff successfully written.
+Image processing took 17125499 nanoseconds:
+  2011299 to load the image.
+  549700 to transfer it to the device.
+  490700 to execute the kernel.
+  1302300 to transfer it back to the host.
+  14564500 to write the image to disk.
+Input image 2.2.17.tiff loaded.
+Output image 2.2.17_edges.tiff successfully written.
+Image processing took 15899100 nanoseconds:
+  2090900 to load the image.
+  659600 to transfer it to the device.
+  453700 to execute the kernel.
+  1259200 to transfer it back to the host.
+  13148600 to write the image to disk.
+Input image 2.2.18.tiff loaded.
+Output image 2.2.18_edges.tiff successfully written.
+Image processing took 17556300 nanoseconds:
+  2085200 to load the image.
+  567800 to transfer it to the device.
+  589500 to execute the kernel.
+  1593900 to transfer it back to the host.
+  14903300 to write the image to disk.
+Input image 2.2.19.tiff loaded.
+Output image 2.2.19_edges.tiff successfully written.
+Image processing took 17815999 nanoseconds:
+  2112700 to load the image.
+  604200 to transfer it to the device.
+  551100 to execute the kernel.
+  1424900 to transfer it back to the host.
+  15099099 to write the image to disk.
+Input image 2.2.20.tiff loaded.
+Output image 2.2.20_edges.tiff successfully written.
+Image processing took 17819300 nanoseconds:
+  2188900 to load the image.
+  589400 to transfer it to the device.
+  558900 to execute the kernel.
+  1422000 to transfer it back to the host.
+  15041000 to write the image to disk.
+Input image 2.2.21.tiff loaded.
+Output image 2.2.21_edges.tiff successfully written.
+Image processing took 16663100 nanoseconds:
+  2162300 to load the image.
+  519200 to transfer it to the device.
+  432400 to execute the kernel.
+  1101000 to transfer it back to the host.
+  13981600 to write the image to disk.
+Input image 2.2.22.tiff loaded.
+Output image 2.2.22_edges.tiff successfully written.
+Image processing took 16708099 nanoseconds:
+  2173700 to load the image.
+  456000 to transfer it to the device.
+  413600 to execute the kernel.
+  1077800 to transfer it back to the host.
+  14078399 to write the image to disk.
+Input image 2.2.23.tiff loaded.
+Output image 2.2.23_edges.tiff successfully written.
+Image processing took 16141100 nanoseconds:
+  2213800 to load the image.
+  544500 to transfer it to the device.
+  479900 to execute the kernel.
+  1167900 to transfer it back to the host.
+  13382800 to write the image to disk.
+Input image 2.2.24.tiff loaded.
+Output image 2.2.24_edges.tiff successfully written.
+Image processing took 16764400 nanoseconds:
+  2223300 to load the image.
+  435000 to transfer it to the device.
+  320700 to execute the kernel.
+  905400 to transfer it back to the host.
+  14106100 to write the image to disk.
+Input image 3.2.25.tiff loaded.
+Output image 3.2.25_edges.tiff successfully written.
+Image processing took 15836500 nanoseconds:
+  1718200 to load the image.
+  536800 to transfer it to the device.
+  439700 to execute the kernel.
+  1009100 to transfer it back to the host.
+  13581500 to write the image to disk.
+Input image 4.1.01.tiff loaded.
+Output image 4.1.01_edges.tiff successfully written.
+Image processing took 1968400 nanoseconds:
+  163200 to load the image.
+  472000 to transfer it to the device.
+  16300 to execute the kernel.
+  606600 to transfer it back to the host.
+  1333200 to write the image to disk.
+Input image 4.1.02.tiff loaded.
+Output image 4.1.02_edges.tiff successfully written.
+Image processing took 1887899 nanoseconds:
+  266600 to load the image.
+  510199 to transfer it to the device.
+  9600 to execute the kernel.
+  405000 to transfer it back to the host.
+  1111100 to write the image to disk.
+Input image 4.1.03.tiff loaded.
+Output image 4.1.03_edges.tiff successfully written.
+Image processing took 1513800 nanoseconds:
+  160600 to load the image.
+  357900 to transfer it to the device.
+  9300 to execute the kernel.
+  323100 to transfer it back to the host.
+  995300 to write the image to disk.
+Input image 4.1.04.tiff loaded.
+Output image 4.1.04_edges.tiff successfully written.
+Image processing took 1556000 nanoseconds:
+  157900 to load the image.
+  357600 to transfer it to the device.
+  9300 to execute the kernel.
+  314300 to transfer it back to the host.
+  1040500 to write the image to disk.
+Input image 4.1.05.tiff loaded.
+Output image 4.1.05_edges.tiff successfully written.
+Image processing took 1553200 nanoseconds:
+  157300 to load the image.
+  352100 to transfer it to the device.
+  9300 to execute the kernel.
+  306600 to transfer it back to the host.
+  1043800 to write the image to disk.
+Input image 4.1.06.tiff loaded.
+Output image 4.1.06_edges.tiff successfully written.
+Image processing took 1619000 nanoseconds:
+  158600 to load the image.
+  366000 to transfer it to the device.
+  10900 to execute the kernel.
+  348700 to transfer it back to the host.
+  1094400 to write the image to disk.
+Input image 4.1.07.tiff loaded.
+Output image 4.1.07_edges.tiff successfully written.
+Image processing took 1571800 nanoseconds:
+  160300 to load the image.
+  345900 to transfer it to the device.
+  9700 to execute the kernel.
+  477800 to transfer it back to the host.
+  1065600 to write the image to disk.
+Input image 4.1.08.tiff loaded.
+Output image 4.1.08_edges.tiff successfully written.
+Image processing took 1516600 nanoseconds:
+  156200 to load the image.
+  402000 to transfer it to the device.
+  9200 to execute the kernel.
+  341900 to transfer it back to the host.
+  958400 to write the image to disk.
+Input image 4.2.01.tiff loaded.
+Output image 4.2.01_edges.tiff successfully written.
+Image processing took 4081900 nanoseconds:
+  526300 to load the image.
+  404200 to transfer it to the device.
+  30300 to execute the kernel.
+  454400 to transfer it back to the host.
+  3151400 to write the image to disk.
+Input image 4.2.03.tiff loaded.
+Output image 4.2.03_edges.tiff successfully written.
+Image processing took 4154700 nanoseconds:
+  597700 to load the image.
+  392600 to transfer it to the device.
+  9700 to execute the kernel.
+  307400 to transfer it back to the host.
+  3164400 to write the image to disk.
+Input image 4.2.05.tiff loaded.
+Output image 4.2.05_edges.tiff successfully written.
+Image processing took 4323600 nanoseconds:
+  536200 to load the image.
+  478000 to transfer it to the device.
+  31000 to execute the kernel.
+  375600 to transfer it back to the host.
+  3309400 to write the image to disk.
+Input image 4.2.06.tiff loaded.
+Output image 4.2.06_edges.tiff successfully written.
+Image processing took 4231600 nanoseconds:
+  536900 to load the image.
+  257200 to transfer it to the device.
+  34900 to execute the kernel.
+  529700 to transfer it back to the host.
+  3437500 to write the image to disk.
+Input image 4.2.07.tiff loaded.
+Output image 4.2.07_edges.tiff successfully written.
+Image processing took 4233600 nanoseconds:
+  536800 to load the image.
+  482700 to transfer it to the device.
+  9600 to execute the kernel.
+  462500 to transfer it back to the host.
+  3214100 to write the image to disk.
+Input image 5.1.09.tiff loaded.
+Output image 5.1.09_edges.tiff successfully written.
+Image processing took 1732000 nanoseconds:
+  155200 to load the image.
+  394000 to transfer it to the device.
+  9700 to execute the kernel.
+  339800 to transfer it back to the host.
+  1182800 to write the image to disk.
+Input image 5.1.10.tiff loaded.
+Output image 5.1.10_edges.tiff successfully written.
+Image processing took 1438400 nanoseconds:
+  140700 to load the image.
+  287400 to transfer it to the device.
+  9600 to execute the kernel.
+  283900 to transfer it back to the host.
+  1010300 to write the image to disk.
+Input image 5.1.11.tiff loaded.
+Output image 5.1.11_edges.tiff successfully written.
+Image processing took 1413700 nanoseconds:
+  138500 to load the image.
+  287400 to transfer it to the device.
+  23600 to execute the kernel.
+  265300 to transfer it back to the host.
+  987800 to write the image to disk.
+Input image 5.1.12.tiff loaded.
+Output image 5.1.12_edges.tiff successfully written.
+Image processing took 1451100 nanoseconds:
+  148400 to load the image.
+  322900 to transfer it to the device.
+  9600 to execute the kernel.
+  269600 to transfer it back to the host.
+  979800 to write the image to disk.
+Input image 5.1.13.tiff loaded.
+Output image 5.1.13_edges.tiff successfully written.
+Image processing took 1124400 nanoseconds:
+  141200 to load the image.
+  251400 to transfer it to the device.
+  10200 to execute the kernel.
+  327300 to transfer it back to the host.
+  731800 to write the image to disk.
+Input image 5.1.14.tiff loaded.
+Output image 5.1.14_edges.tiff successfully written.
+Image processing took 1608300 nanoseconds:
+  137600 to load the image.
+  354700 to transfer it to the device.
+  44500 to execute the kernel.
+  336600 to transfer it back to the host.
+  1116000 to write the image to disk.
+Input image 5.2.08.tiff loaded.
+Output image 5.2.08_edges.tiff successfully written.
+Image processing took 4244800 nanoseconds:
+  466100 to load the image.
+  274000 to transfer it to the device.
+  9900 to execute the kernel.
+  356000 to transfer it back to the host.
+  3504700 to write the image to disk.
+Input image 5.2.09.tiff loaded.
+Output image 5.2.09_edges.tiff successfully written.
+Image processing took 4176900 nanoseconds:
+  459200 to load the image.
+  305500 to transfer it to the device.
+  9800 to execute the kernel.
+  356000 to transfer it back to the host.
+  3412200 to write the image to disk.
+Input image 5.2.10.tiff loaded.
+Output image 5.2.10_edges.tiff successfully written.
+Image processing took 4182300 nanoseconds:
+  459600 to load the image.
+  313300 to transfer it to the device.
+  9200 to execute the kernel.
+  633200 to transfer it back to the host.
+  3409400 to write the image to disk.
+Input image 5.3.01.tiff loaded.
+Output image 5.3.01_edges.tiff successfully written.
+Image processing took 16564999 nanoseconds:
+  1746400 to load the image.
+  495700 to transfer it to the device.
+  589700 to execute the kernel.
+  1379899 to transfer it back to the host.
+  14322899 to write the image to disk.
+Input image 5.3.02.tiff loaded.
+Output image 5.3.02_edges.tiff successfully written.
+Image processing took 16502600 nanoseconds:
+  1786500 to load the image.
+  520700 to transfer it to the device.
+  428200 to execute the kernel.
+  1156100 to transfer it back to the host.
+  14195400 to write the image to disk.
+Input image 6.1.01.tiff loaded.
+Output image 6.1.01_edges.tiff successfully written.
+Image processing took 1805300 nanoseconds:
+  150700 to load the image.
+  438900 to transfer it to the device.
+  10700 to execute the kernel.
+  476600 to transfer it back to the host.
+  1215700 to write the image to disk.
+Input image 6.1.02.tiff loaded.
+Output image 6.1.02_edges.tiff successfully written.
+Image processing took 1995300 nanoseconds:
+  217500 to load the image.
+  535800 to transfer it to the device.
+  9600 to execute the kernel.
+  509600 to transfer it back to the host.
+  1242000 to write the image to disk.
+Input image 6.1.03.tiff loaded.
+Output image 6.1.03_edges.tiff successfully written.
+Image processing took 2336200 nanoseconds:
+  145100 to load the image.
+  395100 to transfer it to the device.
+  9600 to execute the kernel.
+  591300 to transfer it back to the host.
+  1796000 to write the image to disk.
+Input image 6.1.04.tiff loaded.
+Output image 6.1.04_edges.tiff successfully written.
+Image processing took 1722100 nanoseconds:
+  142600 to load the image.
+  433100 to transfer it to the device.
+  10000 to execute the kernel.
+  433900 to transfer it back to the host.
+  1146400 to write the image to disk.
+Input image 6.1.05.tiff loaded.
+Output image 6.1.05_edges.tiff successfully written.
+Image processing took 1486200 nanoseconds:
+  140100 to load the image.
+  382400 to transfer it to the device.
+  9100 to execute the kernel.
+  263700 to transfer it back to the host.
+  963700 to write the image to disk.
+Input image 6.1.06.tiff loaded.
+Output image 6.1.06_edges.tiff successfully written.
+Image processing took 1381300 nanoseconds:
+  138300 to load the image.
+  291000 to transfer it to the device.
+  9600 to execute the kernel.
+  240500 to transfer it back to the host.
+  952000 to write the image to disk.
+Input image 6.1.07.tiff loaded.
+Output image 6.1.07_edges.tiff successfully written.
+Image processing took 1368300 nanoseconds:
+  141100 to load the image.
+  267100 to transfer it to the device.
+  9500 to execute the kernel.
+  238600 to transfer it back to the host.
+  960100 to write the image to disk.
+Input image 6.1.08.tiff loaded.
+Output image 6.1.08_edges.tiff successfully written.
+Image processing took 1350700 nanoseconds:
+  141500 to load the image.
+  265700 to transfer it to the device.
+  9500 to execute the kernel.
+  237100 to transfer it back to the host.
+  943500 to write the image to disk.
+Input image 6.1.09.tiff loaded.
+Output image 6.1.09_edges.tiff successfully written.
+Image processing took 1374800 nanoseconds:
+  141100 to load the image.
+  265700 to transfer it to the device.
+  9600 to execute the kernel.
+  239300 to transfer it back to the host.
+  968000 to write the image to disk.
+Input image 6.1.10.tiff loaded.
+Output image 6.1.10_edges.tiff successfully written.
+Image processing took 1357000 nanoseconds:
+  142400 to load the image.
+  264200 to transfer it to the device.
+  9600 to execute the kernel.
+  238700 to transfer it back to the host.
+  950400 to write the image to disk.
+Input image 6.1.11.tiff loaded.
+Output image 6.1.11_edges.tiff successfully written.
+Image processing took 1355300 nanoseconds:
+  140800 to load the image.
+  265200 to transfer it to the device.
+  9600 to execute the kernel.
+  237200 to transfer it back to the host.
+  949300 to write the image to disk.
+Input image 6.1.12.tiff loaded.
+Output image 6.1.12_edges.tiff successfully written.
+Image processing took 1354600 nanoseconds:
+  139900 to load the image.
+  266900 to transfer it to the device.
+  9600 to execute the kernel.
+  237700 to transfer it back to the host.
+  947800 to write the image to disk.
+Input image 6.1.13.tiff loaded.
+Output image 6.1.13_edges.tiff successfully written.
+Image processing took 1494300 nanoseconds:
+  140700 to load the image.
+  275300 to transfer it to the device.
+  9500 to execute the kernel.
+  240900 to transfer it back to the host.
+  1078300 to write the image to disk.
+Input image 6.1.14.tiff loaded.
+Output image 6.1.14_edges.tiff successfully written.
+Image processing took 1471600 nanoseconds:
+  142300 to load the image.
+  260200 to transfer it to the device.
+  10100 to execute the kernel.
+  342700 to transfer it back to the host.
+  1069100 to write the image to disk.
+Input image 6.1.15.tiff loaded.
+Output image 6.1.15_edges.tiff successfully written.
+Image processing took 1590000 nanoseconds:
+  148000 to load the image.
+  328900 to transfer it to the device.
+  23900 to execute the kernel.
+  365400 to transfer it back to the host.
+  1113100 to write the image to disk.
+Input image 6.1.16.tiff loaded.
+Output image 6.1.16_edges.tiff successfully written.
+Image processing took 1360700 nanoseconds:
+  144700 to load the image.
+  187700 to transfer it to the device.
+  8300 to execute the kernel.
+  291100 to transfer it back to the host.
+  1028300 to write the image to disk.
+Input image 6.2.01.tiff loaded.
+Output image 6.2.01_edges.tiff successfully written.
+Image processing took 1396800 nanoseconds:
+  144100 to load the image.
+  178200 to transfer it to the device.
+  7700 to execute the kernel.
+  294900 to transfer it back to the host.
+  1074500 to write the image to disk.
+Input image 6.2.02.tiff loaded.
+Output image 6.2.02_edges.tiff successfully written.
+Image processing took 1394799 nanoseconds:
+  152400 to load the image.
+  178000 to transfer it to the device.
+  7500 to execute the kernel.
+  291599 to transfer it back to the host.
+  1064399 to write the image to disk.
+Input image 6.2.03.tiff loaded.
+Output image 6.2.03_edges.tiff successfully written.
+Image processing took 1386500 nanoseconds:
+  144700 to load the image.
+  177000 to transfer it to the device.
+  7500 to execute the kernel.
+  293600 to transfer it back to the host.
+  1064800 to write the image to disk.
+Input image 6.2.04.tiff loaded.
+Output image 6.2.04_edges.tiff successfully written.
+Image processing took 1428900 nanoseconds:
+  144800 to load the image.
+  176900 to transfer it to the device.
+  7300 to execute the kernel.
+  292100 to transfer it back to the host.
+  1107200 to write the image to disk.
+Input image 6.2.05.tiff loaded.
+Output image 6.2.05_edges.tiff successfully written.
+Image processing took 1554200 nanoseconds:
+  146000 to load the image.
+  175000 to transfer it to the device.
+  7300 to execute the kernel.
+  444400 to transfer it back to the host.
+  1233200 to write the image to disk.
+Input image 6.2.06.tiff loaded.
+Output image 6.2.06_edges.tiff successfully written.
+Image processing took 1563500 nanoseconds:
+  145200 to load the image.
+  304300 to transfer it to the device.
+  7500 to execute the kernel.
+  343600 to transfer it back to the host.
+  1114000 to write the image to disk.
+Input image 6.2.07.tiff loaded.
+Output image 6.2.07_edges.tiff successfully written.
+Image processing took 1531300 nanoseconds:
+  144600 to load the image.
+  304800 to transfer it to the device.
+  7300 to execute the kernel.
+  312100 to transfer it back to the host.
+  1081900 to write the image to disk.
+Input image 6.2.08.tiff loaded.
+Output image 6.2.08_edges.tiff successfully written.
+Image processing took 1547200 nanoseconds:
+  144100 to load the image.
+  307600 to transfer it to the device.
+  7800 to execute the kernel.
+  325500 to transfer it back to the host.
+  1095500 to write the image to disk.
+Input image 6.2.09.tiff loaded.
+Output image 6.2.09_edges.tiff successfully written.
+Image processing took 1404400 nanoseconds:
+  143800 to load the image.
+  190400 to transfer it to the device.
+  7500 to execute the kernel.
+  295100 to transfer it back to the host.
+  1070200 to write the image to disk.
+Input image 6.2.10.tiff loaded.
+Output image 6.2.10_edges.tiff successfully written.
+Image processing took 1391200 nanoseconds:
+  144500 to load the image.
+  181600 to transfer it to the device.
+  7500 to execute the kernel.
+  298700 to transfer it back to the host.
+  1065100 to write the image to disk.
+Input image 6.2.11.tiff loaded.
+Output image 6.2.11_edges.tiff successfully written.
+Image processing took 1387900 nanoseconds:
+  144200 to load the image.
+  179900 to transfer it to the device.
+  7300 to execute the kernel.
+  294400 to transfer it back to the host.
+  1063800 to write the image to disk.
+Input image 6.2.12.tiff loaded.
+Output image 6.2.12_edges.tiff successfully written.
+Image processing took 1408300 nanoseconds:
+  144200 to load the image.
+  177800 to transfer it to the device.
+  7300 to execute the kernel.
+  298300 to transfer it back to the host.
+  1086300 to write the image to disk.
+Input image 6.2.13.tiff loaded.
+Output image 6.2.13_edges.tiff successfully written.
+Image processing took 1378500 nanoseconds:
+  144900 to load the image.
+  179000 to transfer it to the device.
+  7400 to execute the kernel.
+  290700 to transfer it back to the host.
+  1054600 to write the image to disk.
+Input image 6.2.14.tiff loaded.
+Output image 6.2.14_edges.tiff successfully written.
+Image processing took 1380400 nanoseconds:
+  144500 to load the image.
+  179700 to transfer it to the device.
+  7400 to execute the kernel.
+  292800 to transfer it back to the host.
+  1056200 to write the image to disk.
+Input image 6.2.15.tiff loaded.
+Output image 6.2.15_edges.tiff successfully written.
+Image processing took 1414400 nanoseconds:
+  144300 to load the image.
+  182200 to transfer it to the device.
+  7400 to execute the kernel.
+  278100 to transfer it back to the host.
+  1087900 to write the image to disk.
+Input image 6.2.16.tiff loaded.
+Output image 6.2.16_edges.tiff successfully written.
+Image processing took 1551400 nanoseconds:
+  145100 to load the image.
+  309900 to transfer it to the device.
+  7500 to execute the kernel.
+  320100 to transfer it back to the host.
+  1096400 to write the image to disk.
+Input image 6.2.17.tiff loaded.
+Output image 6.2.17_edges.tiff successfully written.
+Image processing took 1535800 nanoseconds:
+  157300 to load the image.
+  264700 to transfer it to the device.
+  9600 to execute the kernel.
+  334400 to transfer it back to the host.
+  1113800 to write the image to disk.
+Input image 6.2.18.tiff loaded.
+Output image 6.2.18_edges.tiff successfully written.
+Image processing took 1596700 nanoseconds:
+  144300 to load the image.
+  298600 to transfer it to the device.
+  8100 to execute the kernel.
+  382900 to transfer it back to the host.
+  1153800 to write the image to disk.
+Input image 6.2.19.tiff loaded.
+Output image 6.2.19_edges.tiff successfully written.
+Image processing took 1429500 nanoseconds:
+  144700 to load the image.
+  226200 to transfer it to the device.
+  7700 to execute the kernel.
+  281900 to transfer it back to the host.
+  1058600 to write the image to disk.
+Input image 6.2.20.tiff loaded.
+Output image 6.2.20_edges.tiff successfully written.
+Image processing took 1412100 nanoseconds:
+  144100 to load the image.
+  183800 to transfer it to the device.
+  7600 to execute the kernel.
+  303700 to transfer it back to the host.
+  1084200 to write the image to disk.
+Input image 6.2.21.tiff loaded.
+Output image 6.2.21_edges.tiff successfully written.
+Image processing took 1422000 nanoseconds:
+  145400 to load the image.
+  176900 to transfer it to the device.
+  7400 to execute the kernel.
+  330300 to transfer it back to the host.
+  1099700 to write the image to disk.
+Input image 6.2.22.tiff loaded.
+Output image 6.2.22_edges.tiff successfully written.
+Image processing took 1379300 nanoseconds:
+  143700 to load the image.
+  176300 to transfer it to the device.
+  7400 to execute the kernel.
+  295200 to transfer it back to the host.
+  1059300 to write the image to disk.
+Input image 6.2.23.tiff loaded.
+Output image 6.2.23_edges.tiff successfully written.
+Image processing took 1375100 nanoseconds:
+  144100 to load the image.
+  176400 to transfer it to the device.
+  7300 to execute the kernel.
+  292300 to transfer it back to the host.
+  1054600 to write the image to disk.
+Input image 6.2.24.tiff loaded.
+Output image 6.2.24_edges.tiff successfully written.
+Image processing took 1392700 nanoseconds:
+  143700 to load the image.
+  177300 to transfer it to the device.
+  7300 to execute the kernel.
+  289100 to transfer it back to the host.
+  1071700 to write the image to disk.
+Input image 6.2.25.tiff loaded.
+Output image 6.2.25_edges.tiff successfully written.
+Image processing took 1382000 nanoseconds:
+  145600 to load the image.
+  175200 to transfer it to the device.
+  7300 to execute the kernel.
+  291700 to transfer it back to the host.
+  1061200 to write the image to disk.
+Input image 6.2.26.tiff loaded.
+Output image 6.2.26_edges.tiff successfully written.
+Image processing took 1393000 nanoseconds:
+  150200 to load the image.
+  175100 to transfer it to the device.
+  7300 to execute the kernel.
+  294100 to transfer it back to the host.
+  1067700 to write the image to disk.
+Input image 6.2.27.tiff loaded.
+Output image 6.2.27_edges.tiff successfully written.
+Image processing took 1368300 nanoseconds:
+  144500 to load the image.
+  175400 to transfer it to the device.
+  7400 to execute the kernel.
+  291400 to transfer it back to the host.
+  1048400 to write the image to disk.
+Input image 6.2.28.tiff loaded.
+Output image 6.2.28_edges.tiff successfully written.
+Image processing took 1524000 nanoseconds:
+  212500 to load the image.
+  216800 to transfer it to the device.
+  10000 to execute the kernel.
+  319900 to transfer it back to the host.
+  1094700 to write the image to disk.
+Input image 6.2.29.tiff loaded.
+Output image 6.2.29_edges.tiff successfully written.
+Image processing took 1400400 nanoseconds:
+  145400 to load the image.
+  176500 to transfer it to the device.
+  8200 to execute the kernel.
+  317700 to transfer it back to the host.
+  1078500 to write the image to disk.
+Input image 6.2.30.tiff loaded.
+Output image 6.2.30_edges.tiff successfully written.
+Image processing took 1373100 nanoseconds:
+  143900 to load the image.
+  174100 to transfer it to the device.
+  7900 to execute the kernel.
+  295000 to transfer it back to the host.
+  1055100 to write the image to disk.
+Input image 6.2.31.tiff loaded.
+Output image 6.2.31_edges.tiff successfully written.
+Image processing took 1414200 nanoseconds:
+  144100 to load the image.
+  174300 to transfer it to the device.
+  7500 to execute the kernel.
+  332000 to transfer it back to the host.
+  1095800 to write the image to disk.
+Input image 6.2.32.tiff loaded.
+Output image 6.2.32_edges.tiff successfully written.
+Image processing took 1468200 nanoseconds:
+  144500 to load the image.
+  275000 to transfer it to the device.
+  7500 to execute the kernel.
+  270900 to transfer it back to the host.
+  1048700 to write the image to disk.
+Input image 6.3.01.tiff loaded.
+Output image 6.3.01_edges.tiff successfully written.
+Image processing took 1781200 nanoseconds:
+  147800 to load the image.
+  188300 to transfer it to the device.
+  10000 to execute the kernel.
+  319500 to transfer it back to the host.
+  1445100 to write the image to disk.
+Input image 6.3.02.tiff loaded.
+Output image 6.3.02_edges.tiff successfully written.
+Image processing took 1391600 nanoseconds:
+  145400 to load the image.
+  182500 to transfer it to the device.
+  8400 to execute the kernel.
+  292500 to transfer it back to the host.
+  1063700 to write the image to disk.
+Input image 6.3.03.tiff loaded.
+Output image 6.3.03_edges.tiff successfully written.
+Image processing took 1380300 nanoseconds:
+  144900 to load the image.
+  176600 to transfer it to the device.
+  7900 to execute the kernel.
+  296000 to transfer it back to the host.
+  1058800 to write the image to disk.
+Input image 6.3.04.tiff loaded.
+Output image 6.3.04_edges.tiff successfully written.
+Image processing took 1393000 nanoseconds:
+  144800 to load the image.
+  181000 to transfer it to the device.
+  8300 to execute the kernel.
+  290700 to transfer it back to the host.
+  1067200 to write the image to disk.
+Input image 6.3.05.tiff loaded.
+Output image 6.3.05_edges.tiff successfully written.
+Image processing took 1383400 nanoseconds:
+  144600 to load the image.
+  176700 to transfer it to the device.
+  8200 to execute the kernel.
+  291400 to transfer it back to the host.
+  1062100 to write the image to disk.
+Input image 6.3.06.tiff loaded.
+Output image 6.3.06_edges.tiff successfully written.
+Image processing took 1391100 nanoseconds:
+  144000 to load the image.
+  175600 to transfer it to the device.
+  7800 to execute the kernel.
+  290100 to transfer it back to the host.
+  1071500 to write the image to disk.
+Input image 6.3.07.tiff loaded.
+Output image 6.3.07_edges.tiff successfully written.
+Image processing took 1399900 nanoseconds:
+  144500 to load the image.
+  174200 to transfer it to the device.
+  7600 to execute the kernel.
+  297400 to transfer it back to the host.
+  1081200 to write the image to disk.
+Input image 6.3.08.tiff loaded.
+Output image 6.3.08_edges.tiff successfully written.
+Image processing took 1441400 nanoseconds:
+  144900 to load the image.
+  174300 to transfer it to the device.
+  7600 to execute the kernel.
+  293700 to transfer it back to the host.
+  1122200 to write the image to disk.
+Input image 6.3.09.tiff loaded.
+Output image 6.3.09_edges.tiff successfully written.
+Image processing took 1404399 nanoseconds:
+  144300 to load the image.
+  176200 to transfer it to the device.
+  7400 to execute the kernel.
+  298700 to transfer it back to the host.
+  1083899 to write the image to disk.
+Input image 6.3.10.tiff loaded.
+Output image 6.3.10_edges.tiff successfully written.
+Image processing took 1400300 nanoseconds:
+  144500 to load the image.
+  173000 to transfer it to the device.
+  7500 to execute the kernel.
+  295300 to transfer it back to the host.
+  1082800 to write the image to disk.
+Input image 6.3.11.tiff loaded.
+Output image 6.3.11_edges.tiff successfully written.
+Image processing took 1680500 nanoseconds:
+  211300 to load the image.
+  301700 to transfer it to the device.
+  27200 to execute the kernel.
+  356400 to transfer it back to the host.
+  1167500 to write the image to disk.
+Input image 7.1.01.tiff loaded.
+Output image 7.1.01_edges.tiff successfully written.
+Image processing took 4208300 nanoseconds:
+  473100 to load the image.
+  328100 to transfer it to the device.
+  9200 to execute the kernel.
+  447000 to transfer it back to the host.
+  3407100 to write the image to disk.
+Input image 7.1.02.tiff loaded.
+Output image 7.1.02_edges.tiff successfully written.
+Image processing took 3793400 nanoseconds:
+  471000 to load the image.
+  244100 to transfer it to the device.
+  8700 to execute the kernel.
+  436900 to transfer it back to the host.
+  3078300 to write the image to disk.
+Input image 7.1.03.tiff loaded.
+Output image 7.1.03_edges.tiff successfully written.
+Image processing took 4355600 nanoseconds:
+  467800 to load the image.
+  313000 to transfer it to the device.
+  8500 to execute the kernel.
+  485900 to transfer it back to the host.
+  3574800 to write the image to disk.
+Input image 7.1.04.tiff loaded.
+Output image 7.1.04_edges.tiff successfully written.
+Image processing took 4419900 nanoseconds:
+  458100 to load the image.
+  411600 to transfer it to the device.
+  9800 to execute the kernel.
+  460900 to transfer it back to the host.
+  3550200 to write the image to disk.
+Input image 7.1.05.tiff loaded.
+Output image 7.1.05_edges.tiff successfully written.
+Image processing took 4092300 nanoseconds:
+  461600 to load the image.
+  283700 to transfer it to the device.
+  10600 to execute the kernel.
+  473700 to transfer it back to the host.
+  3347000 to write the image to disk.
+Input image 7.1.06.tiff loaded.
+Output image 7.1.06_edges.tiff successfully written.
+Image processing took 4139000 nanoseconds:
+  470300 to load the image.
+  377600 to transfer it to the device.
+  9700 to execute the kernel.
+  377700 to transfer it back to the host.
+  3291100 to write the image to disk.
+Input image 7.1.07.tiff loaded.
+Output image 7.1.07_edges.tiff successfully written.
+Image processing took 4313600 nanoseconds:
+  480400 to load the image.
+  390400 to transfer it to the device.
+  10000 to execute the kernel.
+  425900 to transfer it back to the host.
+  3442800 to write the image to disk.
+Input image 7.1.08.tiff loaded.
+Output image 7.1.08_edges.tiff successfully written.
+Image processing took 4355200 nanoseconds:
+  489300 to load the image.
+  390300 to transfer it to the device.
+  10100 to execute the kernel.
+  382000 to transfer it back to the host.
+  3475600 to write the image to disk.
+Input image 7.1.09.tiff loaded.
+Output image 7.1.09_edges.tiff successfully written.
+Image processing took 4545100 nanoseconds:
+  482200 to load the image.
+  381800 to transfer it to the device.
+  10000 to execute the kernel.
+  515800 to transfer it back to the host.
+  3681100 to write the image to disk.
+Input image 7.1.10.tiff loaded.
+Output image 7.1.10_edges.tiff successfully written.
+Image processing took 4300700 nanoseconds:
+  488100 to load the image.
+  387800 to transfer it to the device.
+  10300 to execute the kernel.
+  413000 to transfer it back to the host.
+  3424800 to write the image to disk.
+Input image 7.2.01.tiff loaded.
+Output image 7.2.01_edges.tiff successfully written.
+Image processing took 16607599 nanoseconds:
+  1875000 to load the image.
+  451200 to transfer it to the device.
+  425400 to execute the kernel.
+  949200 to transfer it back to the host.
+  14281399 to write the image to disk.
+Input image boat.512.tiff loaded.
+Output image boat.512_edges.tiff successfully written.
+Image processing took 4474100 nanoseconds:
+  515000 to load the image.
+  488500 to transfer it to the device.
+  11000 to execute the kernel.
+  528000 to transfer it back to the host.
+  3470600 to write the image to disk.
+Input image gray21.512.tiff loaded.
+Output image gray21.512_edges.tiff successfully written.
+Image processing took 2491300 nanoseconds:
+  480200 to load the image.
+  482800 to transfer it to the device.
+  10600 to execute the kernel.
+  514000 to transfer it back to the host.
+  1528300 to write the image to disk.
+Input image house.tiff loaded.
+Output image house_edges.tiff successfully written.
+Image processing took 4139200 nanoseconds:
+  545500 to load the image.
+  460000 to transfer it to the device.
+  10200 to execute the kernel.
+  466100 to transfer it back to the host.
+  3133700 to write the image to disk.
+Input image motion01.512.tiff loaded.
+Output image motion01.512_edges.tiff successfully written.
+Image processing took 3807000 nanoseconds:
+  469600 to load the image.
+  460500 to transfer it to the device.
+  20000 to execute the kernel.
+  467100 to transfer it back to the host.
+  2876900 to write the image to disk.
+Input image motion02.512.tiff loaded.
+Output image motion02.512_edges.tiff successfully written.
+Image processing took 3615100 nanoseconds:
+  469800 to load the image.
+  332800 to transfer it to the device.
+  10400 to execute the kernel.
+  382400 to transfer it back to the host.
+  2812500 to write the image to disk.
+Input image motion03.512.tiff loaded.
+Output image motion03.512_edges.tiff successfully written.
+Image processing took 3678100 nanoseconds:
+  480500 to load the image.
+  385000 to transfer it to the device.
+  10200 to execute the kernel.
+  419200 to transfer it back to the host.
+  2812600 to write the image to disk.
+Input image motion04.512.tiff loaded.
+Output image motion04.512_edges.tiff successfully written.
+Image processing took 3675600 nanoseconds:
+  468800 to load the image.
+  384700 to transfer it to the device.
+  9800 to execute the kernel.
+  429600 to transfer it back to the host.
+  2822100 to write the image to disk.
+Input image motion05.512.tiff loaded.
+Output image motion05.512_edges.tiff successfully written.
+Image processing took 3588600 nanoseconds:
+  479200 to load the image.
+  389500 to transfer it to the device.
+  9800 to execute the kernel.
+  374500 to transfer it back to the host.
+  2719900 to write the image to disk.
+Input image motion06.512.tiff loaded.
+Output image motion06.512_edges.tiff successfully written.
+Image processing took 3615500 nanoseconds:
+  468100 to load the image.
+  339300 to transfer it to the device.
+  10000 to execute the kernel.
+  373700 to transfer it back to the host.
+  2808100 to write the image to disk.
+Input image motion07.512.tiff loaded.
+Output image motion07.512_edges.tiff successfully written.
+Image processing took 4022100 nanoseconds:
+  711600 to load the image.
+  387100 to transfer it to the device.
+  11400 to execute the kernel.
+  618200 to transfer it back to the host.
+  2923400 to write the image to disk.
+Input image motion08.512.tiff loaded.
+Output image motion08.512_edges.tiff successfully written.
+Image processing took 4037600 nanoseconds:
+  452600 to load the image.
+  416500 to transfer it to the device.
+  29900 to execute the kernel.
+  537600 to transfer it back to the host.
+  3168500 to write the image to disk.
+Input image motion09.512.tiff loaded.
+Output image motion09.512_edges.tiff successfully written.
+Image processing took 3647900 nanoseconds:
+  451000 to load the image.
+  408900 to transfer it to the device.
+  9700 to execute the kernel.
+  447900 to transfer it back to the host.
+  2788000 to write the image to disk.
+Input image motion10.512.tiff loaded.
+Output image motion10.512_edges.tiff successfully written.
+Image processing took 3579200 nanoseconds:
+  465000 to load the image.
+  306100 to transfer it to the device.
+  9500 to execute the kernel.
+  520200 to transfer it back to the host.
+  2808100 to write the image to disk.
+Input image ruler.512.tiff loaded.
+Output image ruler.512_edges.tiff successfully written.
+Image processing took 2363899 nanoseconds:
+  450500 to load the image.
+  434100 to transfer it to the device.
+  10000 to execute the kernel.
+  476500 to transfer it back to the host.
+  1479299 to write the image to disk.
+Input image texmos1.p512.tiff loaded.
+Output image texmos1.p512_edges.tiff successfully written.
+Image processing took 4058100 nanoseconds:
+  446800 to load the image.
+  406400 to transfer it to the device.
+  9700 to execute the kernel.
+  451500 to transfer it back to the host.
+  3204900 to write the image to disk.
+Input image texmos2.p512.tiff loaded.
+Output image texmos2.p512_edges.tiff successfully written.
+Image processing took 3843200 nanoseconds:
+  451900 to load the image.
+  380900 to transfer it to the device.
+  9900 to execute the kernel.
+  415700 to transfer it back to the host.
+  3010400 to write the image to disk.
+Input image texmos2.s512.tiff loaded.
+Output image texmos2.s512_edges.tiff successfully written.
+Image processing took 2315500 nanoseconds:
+  448800 to load the image.
+  414700 to transfer it to the device.
+  9700 to execute the kernel.
+  461300 to transfer it back to the host.
+  1452000 to write the image to disk.
+Input image texmos3.p512.tiff loaded.
+Output image texmos3.p512_edges.tiff successfully written.
+Image processing took 3854200 nanoseconds:
+  448200 to load the image.
+  410000 to transfer it to the device.
+  9700 to execute the kernel.
+  381300 to transfer it back to the host.
+  2996000 to write the image to disk.
+Input image texmos3.s512.tiff loaded.
+Output image texmos3.s512_edges.tiff successfully written.
+Image processing took 2160100 nanoseconds:
+  458600 to load the image.
+  312100 to transfer it to the device.
+  10000 to execute the kernel.
+  386300 to transfer it back to the host.
+  1389400 to write the image to disk.
+Input image texmos3b.p512.tiff loaded.
+Output image texmos3b.p512_edges.tiff successfully written.
+Image processing took 3691200 nanoseconds:
+  456300 to load the image.
+  280900 to transfer it to the device.
+  9800 to execute the kernel.
+  311900 to transfer it back to the host.
+  2954000 to write the image to disk.
+Input image wash-ir.tiff loaded.
+Output image wash-ir_edges.tiff successfully written.
+Image processing took 72451299 nanoseconds:
+  11137300 to load the image.
+  1525800 to transfer it to the device.
+  465200 to execute the kernel.
+  3487200 to transfer it back to the host.
+  59788199 to write the image to disk.
